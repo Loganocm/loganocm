@@ -1,6 +1,7 @@
 ## Greetings!!! 👋
 
 B.S. Computer Science @ George Mason University. 
+
 I love Java and Python
 
 <!--
