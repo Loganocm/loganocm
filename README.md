@@ -1,7 +1,8 @@
 ## Greetings!!! 👋
-I am a software engineer interested in the financial space with a love for Math, C++, and low-latency system development.
 
 B.S. Computer Science @ George Mason University. 
+I love Java and Python
+
 <!--
 **Loganocm/loganocm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
